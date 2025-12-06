@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Basil Alkhusheiny</h1>
-<h3 align="center">A Computer Engineer || Mobile Application devloper || AI</h3>
+<h3 align="center">A Computer Engineer || Embedded Systems Engineer || FPGA Engineer || Mobile Application devloper </h3>
 
 - 👨‍💻 All of my projects are available at [main](main)
 
